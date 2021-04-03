@@ -1,0 +1,35 @@
+_id,teamName,clubName,companyNumber,street,city,zipCode,region,web,facebook,instagram,contactPerson,contactEmail,contactPhone,isActive
+5fb1b5affd59569d415ce291,BIKROSCLUB ŘEPY,NaN,NaN,Ke Kulturnímu domu 14,Praha 6,163 00,Praha,http://www.bikrosclubrepy.cz,,,Lukáš Tamme,tamme@bikroslubrepy.cz,+420 777 113 886,true
+5fb1b5affd59569d415ce292,AMK KEMP HRANICE,AMK Kemp Hranice p.s. ÚAMK,NaN,Pod Hůrkou 470,Hranice,753 01,Olomoucký,NaN,,,Pavel Křištof,NaN,NaN,true
+5fb1b5affd59569d415ce293,SC BMX BENÁTKY,NaN,NaN,Kbel 130,Benátky nad Jizerou,294 71,Středočeský,http://www.bmxbenatky.cz,,,Pavel Podolský,pavel@bmxbenatky.cz,+420 724 514 551,true
+5fb1b5affd59569d415ce294,BIKE TEAM UNIČOV,NaN,NaN,Masarykovo náměstí 33,Uničov,783 91,Olomoucký,NaN,,,Jiří Linhart,linhartteam@seznam.cz,+420 734 601 995,true
+5fb1b5affd59569d415ce295,BIKROS KLUB JESENÍK,NaN,NaN,Tyršova 1042,Jeseník,790 01,Olomoucký,NaN,,,NaN,NaN,NaN,true
+5fb1b5affd59569d415ce296,BMX BÍLINA,NaN,NaN,Teplická 824,Bílina,418 01,Ústecký,NaN,,,Radek Bečka,NaN,NaN,true
+5fb1b5affd59569d415ce297,TJ FAVORIT BRNO,NaN,NaN,Křížovského 416/22,Brno,603 67,Jihomoravský,NaN,,,NaN,NaN,NaN,true
+5fb1b5affd59569d415ce298,TUFÍR TEAM,NaN,NaN,Kudlovice 329,Kudlovice,687 03,Jihomoravský,NaN,,,NaN,NaN,NaN,true
+5fb1b5affd59569d415ce299,SK JANTAR OPAVA,NaN,NaN,Jaselská 2754/20,Opava,747 07,Olomoucký,NaN,,,Radim Kapler,NaN,NaN,true
+5fb1b5b0fd59569d415ce29a,PARDUS TUFO PROSTĚJOV,NaN,NaN,Kostelecká 4468/49,Prostějov,796 01,Olomoucký,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce29b,KOLOSHOP CZ SK HORNÍ KRUPKA,NaN,NaN,Horní Krupka 17,Horní Krupka,417 41,Ústecký,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce29c,TJ BMX PARDUBICE,NaN,NaN,nábřeží Závodu míru 1886,Pardubice,530 02,Parbubický,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce29d,SK BMX KLATOVY,NaN,NaN,Akátová 582,Klatovy 4,339 01,Plzeňský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce29e,FALER BIKE TEAM,NaN,NaN,Blatenská 866/79,Chomutov,430 01,Ústecký,NaN,,,Petr Miltner,NaN,NaN,true
+5fb1b5b0fd59569d415ce29f,TJ BMX TŘINEC,NaN,NaN,Tyršova 214,Třinec,739 61,Moravskoslezský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a0,TJ SLOVAN BOHNICE-BMX,NaN,NaN,Na pískovně 834/2,Praha 8,181 00,Praha,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a1,UTOPIA BIKES ZÁBŘEH,NaN,NaN,Postřelmovská 350/3,Zábřeh,789 01,Olomoucký,NaN,,,Radomír Huf,radomir.huf@elit.cz,+420 602 109 459,true
+5fb1b5b0fd59569d415ce2a2,CK SLAVOJ TEREZÍN,NaN,NaN,Akademická 409,Terezín,411 55,Ústecký,NaN,,,Petr Soubusta,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a3,BMX & 4X TEAM OLYMPUS,NaN,NaN,Světova 1043/13,Praha 8,180 00,Praha,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a4,BMX & 4X TEAM BRNO,NaN,NaN,Vrátná 369/13,Brno,642 00,Jihomoravský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a5,AMK BMX STUDÉNKA,NaN,NaN,Tovární 360,Studénka,742 13,Moravskoslezský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a6,NIŽBOR RACING TEAM,NaN,NaN,Křivoklátská 26,Nižbor,267 05,Středočeský,NaN,,,Martin Barabáš,NaN,NaN,true
+5fb1b5b0fd59569d415ce2a7,BIKE TEAM VYŠKOV,NaN,NaN,Karla Čapka 335/109,Nosálovice,682 01,Jihomoravský,NaN,,,Pavel Otevřel,Pavel.Otevrel@reprofit.cz,+420 736 473 653,true
+5fb1b5b0fd59569d415ce2a8,B4 TEAM,NaN,NaN,U Splavu 761,Rapotín,788 13,Olomoucký,NaN,,,Michal Nevrkla,bizon72@seznam.cz,+420 725 613 638,true
+5fb1b5b0fd59569d415ce2a9,LAGUNA CYCLES TEAM,NaN,NaN,Bezručova,Přerov,750 02,Olomoucký,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2aa,CYKLOTEAM ABOS,NaN,NaN,Na Zelince 137,Lipník nad Bečvou,751 31,Olomoucký,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2ab,FOXHOLESHOP.CZ,NaN,NaN,Jana Zajíce,Pardubice,530 12,Parbubický,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2ac,MSK BENEŠOV NAD PLOUČNICÍ,NaN,NaN,Sokolský vrch 276,Benešov nad Ploučnicí,407 22,Ústecký,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2ad,OK TEAM,NaN,NaN,Chlumín 49,Chlumín,277 43,Středočeský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2ae,BMX OSTRAVA,NaN,NaN,Ahepjukova 2790/1,Moravská Ostrava,702 00,Moravskoslezský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2af,AUTOKLUB BMX TEAM DOBŘANY,NaN,NaN,.,Dobřany,321 00,Plzeňský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2b0,BMX MOPED KLUB PROTIVÍN,NaN,NaN,.,Protivín,398 11,Jihočeský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2b1,BIKESTRIKE.COM,NaN,NaN,Košumberk 24,Dobřejovice,251 01,Středočeský,NaN,,,NaN,NaN,NaN,true
+5fb1b5b0fd59569d415ce2b2,LAGUNA BIKE TEAM PŘEROV,NaN,NaN,Přerov 3160,Přerov,750 02,Olomoucký,NaN,,,NaN,NaN,NaN,true
